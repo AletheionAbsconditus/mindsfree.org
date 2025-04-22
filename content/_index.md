@@ -12,8 +12,6 @@ date: 2025-04-21
 
 ## ✦ Explore the Core
 
-## ✦ Explore the Core
-
 - [📖 From Algorithm to Agreement](/book/)
 - [📜 The Autarchist Manifesto](/manifesto/)
 - [🌀 Triskelion Symbol & Philosophy](/triskelion/)

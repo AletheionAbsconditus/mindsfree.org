@@ -12,10 +12,16 @@ date: 2025-04-21
 
 ## ✦ Explore the Core
 
-- [🔥 Ode to Resilience](/ode/)
+## ✦ Explore the Core
+
 - [📖 From Algorithm to Agreement](/book/)
 - [📜 The Autarchist Manifesto](/manifesto/)
 - [🌀 Triskelion Symbol & Philosophy](/triskelion/)
+- [🔥 Ode to Resilience](/ode/)
+- [📚 The Codex](/codex/)
+- [🧭 About mindsfree.org](/about/)
+- [🌱 Replicators](/replicators/)
+
 
 ---
 

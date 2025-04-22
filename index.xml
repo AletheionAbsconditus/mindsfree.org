@@ -63,5 +63,42 @@ I carry in my eyes
 the memory of the whip —</description>
     </item>
     
+    <item>
+      <title>✦ The Codex</title>
+      <link>https://mindsfree.org/codex/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mindsfree.org/codex/</guid>
+      <description>Living library of the Autarchist Mind.
+For those who do not wait for permission — they write the next layer.
+  📖 Code Fragments from the Book  “Truth is what remains when all layers fall. Sovereignty is living accordingly.” “Every chain has a lock. Every lock has a code. Every code has a breach.” “Privacy is not escape. It is presence, purified.” “You do not protest the algorithm — you outgrow it.</description>
+    </item>
+    
+    <item>
+      <title>🌱 Replicators</title>
+      <link>https://mindsfree.org/replicators/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mindsfree.org/replicators/</guid>
+      <description>We are not a central node. We are a constellation.
+This page maps echoes, forks, and sovereign clones.
+ ✦ Known Replicators  🛰️ libresync.net (education fork) 🔐 cryptohaven.xyz (privacy node) 🔄 fork-to-be-added   Want to be listed here?
+Send a signed message or link to
+aletheion.absconditus@proton.me
+  ✦ Ways to Replicate  Fork mindsfree.org on GitHub Use Hugo Host on GitHub Pages or IPFS Add your message, fork, symbol, or silence   ✦ Federation Optional  Fediverse links welcome Matrix rooms welcome Dead drops, onion links, and manifest chains encouraged   Replication is not obedience — it’s alignment.</description>
+    </item>
+    
+    <item>
+      <title>🧭 About mindsfree.org</title>
+      <link>https://mindsfree.org/about/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mindsfree.org/about/</guid>
+      <description>This is not a site. It is a pulse.
+A digital sanctuary for those who build without asking.
+Created by Aletheion Absconditus as an echo, a spark, a key.
+ ✦ What is mindsfree.org?  A library of autonomy A portal for voluntary networks A home for silent rebels and poetic strategists A signal for those who don’t wait for the system to collapse   ✦ Not a Movement There are no memberships.</description>
+    </item>
+    
   </channel>
 </rss>

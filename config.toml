@@ -1,4 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = "https://mindsfree.org/"
+relativeURLs = false
+canonifyURLs = true
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Free Minds Site'
 theme = "mainroad"

@@ -12,13 +12,23 @@ date: 2025-04-21
 
 ## ✦ Explore the Core
 
+- [🚀 Launch Pad](/launch/)
 - [📖 From Algorithm to Agreement](/book/)
 - [📜 The Autarchist Manifesto](/manifesto/)
 - [🌀 Triskelion Symbol & Philosophy](/triskelion/)
 - [🔥 Ode to Resilience](/ode/)
+- [🧠 About mindsfree.org](/about/)
 - [📚 The Codex](/codex/)
-- [🧭 About mindsfree.org](/about/)
-- [🌱 Replicators](/replicators/)
+- [🛠️ Tools of Liberation](/tools/)
+- [🗃️ Archive of Resistance](/archive/)
+- [🫂 Circle of Presence](/circle/)
+- [🪞 Decentralized Mirrors](/mirror/)
+- [🧬 Fork the Future](/fork/)
+- [📜 Legacy Field](/legado/)
+- [🌐 Autarchic Professions & Guilds](/professions/)
+- [🏛️ Build Autonomous Enterprises](/enterprises/)
+- [🛠️ What I Offer](/offers/)
+- [🌐 Network Directory](/network/)
 
 
 ---

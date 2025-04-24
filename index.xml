@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mindsfree.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>🪞 Codex Mirrors</title>
+      <link>https://mindsfree.org/mirror/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mindsfree.org/mirror/</guid>
+      <description>&amp;ldquo;Mirror, mirror on the wall,
+who&amp;rsquo;s the fairest of them all?&amp;quot;
+Codex is. Immutable. Replicable. Alive.
+  ✦ Official IPFS Mirror (v1.0 – Phantom)  📦 CID: bafybeibks7qn4mh6fxl3322hyzne4hgy7ojl4udhpzrymzjeezxlx6ykhm 🌐 Gateway: https://bafybeibks7qn4mh6fxl3322hyzne4hgy7ojl4udhpzrymzjeezxlx6ykhm.ipfs.w3s.link 📄 Version Log: See Version History   ✦ QR Code for Physical/Offline Distribution  This QR links directly to the sealed IPFS version of Codex v1.0.
+  ✦ Planned Mirrors  🧅 .onion mirror (Tor) 📀 USB/SD bundles 🌐 IPFS DHT peers 🧬 Torrent archive (Codex Genome Edition)   Want to create your own mirror?</description>
+    </item>
+    
+    <item>
       <title>🏛️ Autarchic Guilds</title>
       <link>https://mindsfree.org/guilds/</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
@@ -38,8 +51,8 @@
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://mindsfree.org/versions/</guid>
-      <description> “This is the stone. Everything else is flame.”
-  ✦ Codex v1.0 – Phantom  🔐 Sealed on: 2025-04-22 📦 IPFS CID: bafybeibks7qn4mh6fxl3322hyzne4hgy7ojl4udhpzrymzjeezxlx6ykhm 🌐 View: https://bafybeibks7qn4mh6fxl3322hyzne4hgy7ojl4udhpzrymzjeezxlx6ykhm.ipfs.w3s.link 🧩 Shard ID: bagbaieraq7vuajicjlkqakgg35fpinuoiztyckzhmdd2bqsoxygfyp3q6waq 📜 Notes:  Contains: manifesto, book, professions, bazaar, inspire, tools Does not include: /pulse/, /walk/, /circle/submit Use for mirrors, QR, federation and timestamped citation    </description>
+      <description>“This is the stone. Everything else is flame.”
+  ✦ Codex v1.0 – Phantom  🔐 Sealed on: 2025-04-22 📦 IPFS CID: bafybeibks7qn4mh6fxl3322hyzne4hgy7ojl4udhpzrymzjeezxlx6ykhm 🌐 View: https://bafybeibks7qn4mh6fxl3322hyzne4hgy7ojl4udhpzrymzjeezxlx6ykhm.ipfs.w3s.link 🧩 Shard ID: bagbaieraq7vuajicjlkqakgg35fpinuoiztyckzhmdd2bqsoxygfyp3q6waq 📜 Notes:  Contains: manifesto, book, professions, bazaar, inspire, tools Does not include: /pulse/, /walk/, /circle/submit Use for mirrors, QR, federation and timestamped citation     ✦ QR Code for Physical/Offline Distribution  This QR links directly to the sealed IPFS version of Codex v1.</description>
     </item>
     
     <item>
@@ -282,18 +295,6 @@ git clone https://github.com/AletheionAbsconditus/mindsfree.org   Install Hugo
 A digital sanctuary for those who build without asking.
 Created by Aletheion Absconditus as an echo, a spark, a key.
  ✦ What is mindsfree.org?  A library of autonomy A portal for voluntary networks A home for silent rebels and poetic strategists A signal for those who don’t wait for the system to collapse   ✦ Not a Movement There are no memberships.</description>
-    </item>
-    
-    <item>
-      <title>🪞 Decentralized Mirrors</title>
-      <link>https://mindsfree.org/mirror/</link>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://mindsfree.org/mirror/</guid>
-      <description> When the grid blinks — the seed survives.
-  ✦ Main Site  mindsfree.org   ✦ Future Mirrors (Coming Soon)  IPFS → ipfs://bafy... Arweave → ar://abc... Onion → http://abcdef1234567890.onion Git Repo Backup → GitHub    Want to mirror this site? Fork it, copy it, make it yours.
-We don’t ask for permission. We propagate.
- </description>
     </item>
     
     <item>
